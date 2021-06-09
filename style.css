@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(12, 54, 109);
+  color: white;
+  padding: 10px;
+}
+
+header {
+  background-color: crimson;
+  margin: 20px auto;
+  padding: 0 10px;
+  height: 75px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+h1 {
+  font-size: 2em;
+}
+main .container {
+}
+.home {
+  margin-left: 20px;
+  margin-bottom: 0;
+}
+.nav {
+  background-color: teal;
+  margin: 10px 10px 10px 0;
+  padding: 10px;
+  border-radius: 20px;
+  min-width: 200px;
+}
+.nav ul {
+  margin-top: 0px;
+}
+
+a {
+  color: cyan;
+}
+
+span {
+  color: rgb(136, 112, 216);
+}
+
+main {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.main-content {
+  background-color: rgb(7, 1, 27);
+  margin: 10px 0 20px 10px;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+footer {
+  background-color: gray;
+  padding: 5px 20px;
+  border-radius: 20px;
+}
